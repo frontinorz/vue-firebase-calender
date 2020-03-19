@@ -6,6 +6,9 @@ npm install
 ```
 
 ### Compiles and hot-reloads for development
+
+Change db-template.js to your firebase store data
+
 ```
 npm run serve
 ```
